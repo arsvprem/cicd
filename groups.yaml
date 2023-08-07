@@ -1,0 +1,10 @@
+---
+
+arista_group:
+  platform: "eos"
+  data:
+    ntp_server: "172.16.31.10"
+
+#juniper_group: {}
+
+#cisco_group: {}
