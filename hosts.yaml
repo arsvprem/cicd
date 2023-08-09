@@ -1,15 +1,11 @@
 ---
 
 EOS1:
-  username: "pj"
-  password: "pj"
   platform: "eos"
   hostname: "10.0.0.34"
   groups:
     - "arista_group"
 EOS2:
-  username: "pj"
-  password: "pj"
   platform: "eos"
   hostname: "10.0.0.35"
   groups:
