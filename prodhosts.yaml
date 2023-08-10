@@ -1,10 +1,5 @@
 ---
 
-EOS1:
-  platform: "eos"
-  hostname: "10.0.0.34"
-  groups:
-    - "arista_group"
 EOS2:
   platform: "eos"
   hostname: "10.0.0.35"
